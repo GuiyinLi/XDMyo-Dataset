@@ -50,6 +50,8 @@ Participants performed each static gesture within 5 s and each dynamic gesture w
 
 ![picture](./picture/gesture.png)
 
+`0` indicates a rest phase between the same gestures, and `-1` indicates a rest phase between different gestures.
+
 ## Paper
 
 The Paper is currently under submission to IEEE Sensors, and utilized Dataset A.
