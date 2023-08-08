@@ -1,0 +1,14 @@
+label,class,name
+1,static,Neutral
+2,static,Redial Deviation
+3,static,Flexion
+4,static,Ulnar Deviation
+5,static,Extension
+6,static,Hand Close
+7,static,Hand Open
+8,dynamic,Yaw Right
+9,dynamic,Yaw Left
+10,dynamic,Pitch Above
+11,dynamic,Pitch Below
+12,dynamic,Roll Exterior
+13,dynamic,Roll Interior

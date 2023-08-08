@@ -1,0 +1,25 @@
+id,female,set
+s1, ,train
+s2, ,train
+s3, ,train
+s4,*,train
+s5, ,train
+s6, ,train
+s7, ,train
+s9, ,train
+s10, ,train
+s11,*,train
+s13, ,train
+s14,*,train
+s15, ,train
+s18, ,train
+s19,*,train
+
+8, ,test
+12, ,train
+16, ,test
+17,*,test
+20, ,test
+21, ,test
+
+
