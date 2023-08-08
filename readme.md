@@ -46,7 +46,7 @@ Participants performed each static gesture within 5 s and each dynamic gesture w
 | B      |   7   |dynamic|Pinch           |     5     |
 | B      |   8   |dynamic|Raise Hand      |     2     |
 | B      |   9   |dynamic|Release Hand    |     2     |
-| B      |   9   |dynamic|Wave Hand       |     2     |
+| B      |   10   |dynamic|Wave Hand      |     2     |
 
 ![picture](./picture/gesture.png)
 
