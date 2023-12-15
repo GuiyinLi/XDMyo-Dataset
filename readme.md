@@ -54,10 +54,30 @@ Participants performed each static gesture within 5 s and each dynamic gesture w
 
 ## Paper
 
-The Paper is currently under submission to IEEE Sensors, and utilized Dataset A.
+The Paper had been published in IEEE Sensors Journal, and utilized Dataset A.
+
+<https://doi.org/10.1109/JSEN.2023.3327999>
 
 In XDMyo-A, the raw signal data of the 21 subjects included 1,638 (13 × 21 × 6) gestures. The dataset was partitioned into the source-dataset and the target-dataset. The source-dataset comprised data from 15 participants.
 
-## Authors
+## Cite
+
+```text
+G. Li, B. Wan, K. Su, J. Huo, C. Jiang and F. Wang, "sEMG and IMU Data-Based Hand Gesture Recognition Method Using Multistream CNN With a Fine-Tuning Transfer Framework," in IEEE Sensors Journal, vol. 23, no. 24, pp. 31414-31424, 15 Dec.15, 2023, doi: 10.1109/JSEN.2023.3327999.
+```
+
+```bibtex
+@ARTICLE{10305519,
+  author={Li, Guiyin and Wan, Bo and Su, Kejia and Huo, Jiwang and Jiang, Changhua and Wang, Fei},
+  journal={IEEE Sensors Journal},
+  title={sEMG and IMU Data-Based Hand Gesture Recognition Method Using Multistream CNN With a Fine-Tuning Transfer Framework},
+  year={2023},
+  volume={23},
+  number={24},
+  pages={31414-31424},
+  doi={10.1109/JSEN.2023.3327999}}
+```
+
+## Contributors
 
 Guiyin Li, Bo Wan, Kejia Su, Jiwang Huo, Changhua Jiang, Fei Wang
